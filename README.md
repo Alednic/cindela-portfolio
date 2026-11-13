@@ -11,7 +11,7 @@ This static portfolio uses a single HTML file with CSS and a small amount of Jav
 
 ## Adding images
 
-Create an `images` folder next to `index.html`, then add image files using the names shown in comments on each project card. The four projects with screenshots each have a three-image collage. Files are named `starlight.jpeg` through `starlight3.jpeg`, `gamedev.jpeg` through `gamedev3.jpeg`, `GPdI.jpeg` through `GPdI3.jpeg`, and `where2go.jpeg` through `where2go3.jpeg`. If a project has no images, its colored cover remains as a placeholder. The hero currently uses a monogram that you can replace with a photo or illustration.
+Create an `images` folder next to `index.html`, then add image files using the names shown in comments on each project card. Starlight, Boink’ Boink!, GPdI Bethlehem, and Where2Go use three-image collages. Their files are named `starlight.jpeg` through `starlight3.jpeg`, `gamedev.jpeg` through `gamedev3.jpeg`, `GPdI.jpeg` through `GPdI3.jpeg`, and `where2go.jpeg` through `where2go3.jpeg`. Jelajah Seoul currently has a designed placeholder cover. Add a screenshot as `images/jelajah-seoul.jpg` and an `<img>` element to that card when you are ready. If a project has no images, its colored cover remains as a placeholder. The hero currently uses a monogram that you can replace with a photo or illustration.
 
 ## GitHub Pages
 
